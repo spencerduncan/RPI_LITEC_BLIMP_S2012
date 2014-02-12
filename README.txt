@@ -1,0 +1,1 @@
+Good luck compiling this without the RPI 8051 libraries or the proper hardware. Code's kinda pretty though.
